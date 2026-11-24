@@ -1,6 +1,6 @@
 # RISICCO V6 — STREET LUXURY / CINEMATIC EDITION (06-11-2026)
 
-## Identidade da V6
+## Identidade da V7
 
 A V6 mantém **toda a estrutura e o conteúdo da V5.1**, incluindo as 18 tabelas, autenticação, área privada, projetos, orçamentos, equipa, portefólio de demonstração, serviços e personalização mesmo sem login. A direção artística foi desenvolvida com base na imagem do cartaz RISICCO entregue pelo autor: **preto profundo, ouro/amarelo, grafite à mão, halftone e molduras luminosas**. Não se usam imagens fictícias como capturas do website.
 
