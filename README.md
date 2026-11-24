@@ -148,7 +148,7 @@ RISICCO_SITE/
 - `APP_ENV=local` apenas no desenvolvimento. **Não lançar em produção** sem transporte de email configurado, rate limiting mais robusto, HTTPS, verificação de email, revisões de segurança e processo de privacidade implementado.
 - O design não importa fotografias externas ou conteúdo fictício apresentado como trabalho real. A imagem enviada é o principal elemento gráfico da marca.
 
-## 6. Identidade
+## 6. Identidade- 
 
 O ficheiro `risicco-art.webp` é uma conversão otimizada do material enviado pelo utilizador. `risicco-reel.png` é um recorte do símbolo central (bobina + auscultadores). Todos os outros visuais conceptuais são composições gráficas CSS, sem rostos inventados.
 
