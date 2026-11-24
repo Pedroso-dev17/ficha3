@@ -1,0 +1,26 @@
+RISICCO V7 — Atualização visual cinematográfica
+
+SITE COMPLETO: mantém PHP, rotas, SQL, autenticação e área de cliente existentes.
+Consultar README.md para instalar PHP/MySQL e configurar .env. Não publicar .env.
+
+PRÉ-VISUALIZAÇÃO: extrair o ZIP e abrir index.html. As páginas públicas e preferências
+funcionam offline; autenticação, pedidos e área de cliente necessitam do site PHP.
+
+NOVO: fotografias WebP, composição fotográfica com perspetiva, serviços com imagens,
+camada visual global V7 e escultura de bobina em WebGL nativo nos cabeçalhos.
+A cena utiliza geometria 3D, projeção perspetiva e rotação; não é um modelo GLTF.
+O restante site combina HTML acessível e transformações CSS 3D. Não é um mundo
+inteiramente navegável em 3D. Introdução original, letras, portal e salto preservados.
+WebGL pausa fora do ecrã, em separadores ocultos e nos modos mínimo/reduzido.
+Sem suporte WebGL, o conteúdo e as fotografias permanecem utilizáveis.
+
+Equipa e portefólio mantêm os dados e conceitos existentes. A fotografia do operador
+não foi atribuída a um nome sem confirmação. Substituir demonstrações antes de lançamento.
+
+VALIDAÇÃO: sintaxe JavaScript; links HTML e recursos CSS de 23 páginas públicas;
+verificação visual da homepage desktop. PHP/MySQL indisponíveis neste ambiente:
+login, registo, pedidos, SQL e dashboard não foram testados em execução.
+Responsividade implementada, ainda a validar em dispositivos reais.
+
+Ficheiros alterados no site: app/views.php; public/assets/css/universe-v7.css;
+public/assets/js/universe-v7.js; três fotografias WebP em public/assets/img.
